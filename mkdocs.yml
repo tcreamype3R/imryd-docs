@@ -1,0 +1,4 @@
+site_name: IMRyD Docs
+theme:
+  name: material
+docs_dir: docs
